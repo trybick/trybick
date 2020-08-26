@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Website](https://img.shields.io/website?label=timr.dev&style=for-the-badge&url=https%3A%2F%2Ftimr.dev)](https://timr.dev)
+
 
 &nbsp;
 
