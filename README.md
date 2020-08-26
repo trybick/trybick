@@ -1,14 +1,25 @@
 ### Hi there 👋
 
+
+&nbsp;
+
+
+
+<img align="center" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
+
+
+<img align="center" alt="trybick's Most Used Languages" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=trybick&layout=compact" />
+
+
 ### Connect with me:
 
 [<img align="left" alt="timr.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="celtic426 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Tim Rybicki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
 
-<img align="left" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
+
+
 
 
 [website]: https://timr.dev
