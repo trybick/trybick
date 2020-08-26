@@ -8,7 +8,7 @@
 
 <br />
 
-<img align="left" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false" />
+<img align="left" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
 
 
 [website]: https://timr.dev
