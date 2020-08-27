@@ -13,17 +13,20 @@ I work as a JavaScript/React developer and also enjoy coding as a hobby. Check o
 
 ### Stats
 
-<img align="center" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
-
 <img align="center" alt="trybick's Most Used Languages" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=trybick&layout=compact" />
-                                                                                                                
-### Current Favorite Technologies
+<img align="center" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
+                                                                                                           
 
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
+### Languages and Tools:
 
-&nbsp;
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
 
 ### Connect with me
 
@@ -31,12 +34,9 @@ I work as a JavaScript/React developer and also enjoy coding as a hobby. Check o
 [<img align="left" alt="celtic426 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Tim Rybicki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!-- Badges not used right now
-[![Website](https://img.shields.io/website?label=timr.dev&style=for-the-badge&url=https%3A%2F%2Ftimr.dev)](https://timr.dev)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/celtic426)
--->
 
 
+<!-- Variables -->
 [website]: https://timr.dev
 [youtube]: https://youtube.com/celtic426
 [linkedin]: https://www.linkedin.com/in/tim-rybicki/
