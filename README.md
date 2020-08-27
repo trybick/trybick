@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi, I'm Tim 👋
 
-
-
-Hi I'm Tim - I work as a JavaScript/React developer and also enjoy coding as a hobby. Check out my projects and let me know if you'd like to collaborate :rocket:
+I work as a JavaScript/React developer and also enjoy coding as a hobby. Check out my projects and let me know if you'd like to collaborate :rocket:
 
 ### Currently working on:
 - [TV Minder](https://tv-minder.com/) (TV show tracker)
@@ -10,12 +8,10 @@ Hi I'm Tim - I work as a JavaScript/React developer and also enjoy coding as a h
 ### Other Projects:
 - [Terminal Zoom](https://marketplace.visualstudio.com/items?itemName=trybick.terminal-zoom) (VSCode Extension)
 - [Tray Tuner](https://traytuner.com/) (Desktop music app)
-- <img alt="React" width="20px" style="vertical-align: sub;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> [Issue Collab](https://issue-collab.dev/) (GitHub Issue search tool) 
+- [Issue Collab](https://issue-collab.dev/) (GitHub Issue search tool)
 - [Slack Location Manager](https://www.npmjs.com/package/slack-location-manager) (Slack CLI tool)
 
-&nbsp;
-
-<!-- GitHub Stats -->
+### Stats
 
 <img align="center" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
 
