@@ -1,7 +1,17 @@
 ### Hi there 👋
 
-[![Website](https://img.shields.io/website?label=timr.dev&style=for-the-badge&url=https%3A%2F%2Ftimr.dev)](https://timr.dev)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/celtic426)
+
+
+Hi I'm Tim - I work as a JavaScript/React developer and also enjoy coding as a hobby. Check out my projects and let me know if you'd like to collaborate :rocket:
+
+### Currently working on:
+- [TV Minder](https://tv-minder.com/) (TV show tracker)
+
+### Other Projects:
+- [Terminal Zoom](https://marketplace.visualstudio.com/items?itemName=trybick.terminal-zoom) (VSCode Extension)
+- [Tray Tuner](https://traytuner.com/) (Desktop music app)
+- <img alt="React" width="20px" style="vertical-align: sub;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> [Issue Collab](https://issue-collab.dev/) (GitHub Issue search tool) 
+- [Slack Location Manager](https://www.npmjs.com/package/slack-location-manager) (Slack CLI tool)
 
 &nbsp;
 
@@ -24,6 +34,11 @@
 [<img align="left" alt="timr.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="celtic426 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Tim Rybicki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<!-- Badges not used right now
+[![Website](https://img.shields.io/website?label=timr.dev&style=for-the-badge&url=https%3A%2F%2Ftimr.dev)](https://timr.dev)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/celtic426)
+-->
 
 
 [website]: https://timr.dev
