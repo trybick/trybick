@@ -2,7 +2,7 @@
 
 I work as a JavaScript/React developer and also enjoy coding as a hobby. Check out my projects and let me know if you'd like to collaborate :rocket:
 
-I also write a [tech blog](https://timr.dev/blog) :book: &ensp; and make [piano videos](https://youtube.com/celtic426) :notes:
+I also write a [tech blog](https://timr.dev/blog) :book:&ensp;and make [piano videos](https://youtube.com/celtic426) :notes:
 
 ### Currently working on
 - [TV Minder](https://tv-minder.com/) (TV show tracker)
