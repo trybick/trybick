@@ -20,6 +20,12 @@ I also write a [tech blog](https://timr.dev/blog) :book:&ensp;and make [piano vi
 
 ### Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1691](https://github.com//chakra-ui/chakra-ui/issues/1691) in [chakra-ui/chakra-ui](https://github.com//chakra-ui/chakra-ui)
+2. ❗️ Opened issue [#1691](https://github.com//chakra-ui/chakra-ui/issues/1691) in [chakra-ui/chakra-ui](https://github.com//chakra-ui/chakra-ui)
+3. ❗️ Closed issue [#1690](https://github.com//chakra-ui/chakra-ui/issues/1690) in [chakra-ui/chakra-ui](https://github.com//chakra-ui/chakra-ui)
+4. ❗️ Opened issue [#1690](https://github.com//chakra-ui/chakra-ui/issues/1690) in [chakra-ui/chakra-ui](https://github.com//chakra-ui/chakra-ui)
+5. ❗️ Opened issue [#20](https://github.com//trybick/tv-minder/issues/20) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
+<!--END_SECTION:activity-->
                                                                                                            
 ### Connect with me
 
