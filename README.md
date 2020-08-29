@@ -4,8 +4,12 @@ I work as a JavaScript/React developer and also enjoy coding as a hobby. Check o
 
 I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https://youtube.com/celtic426).
 
-[<img src="
-https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+  <a href="https://www.linkedin.com/in/tim-rybicki">
+    <img src="
+https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 
 <!--
 [<img align="left" alt="timr.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
