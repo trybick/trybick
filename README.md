@@ -4,6 +4,12 @@ I work as a JavaScript/React developer and also enjoy coding as a hobby. Check o
 
 I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https://youtube.com/celtic426).
 
+[<img align="left" alt="timr.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="celtic426 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Tim Rybicki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+&nbsp;
+
 ### Currently working on
 - 📺&ensp;[TV Minder](https://tv-minder.com/) (TV show tracker)
 
@@ -15,10 +21,9 @@ I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https:
 
 ### Stats
 
-
 <p float="left">
-  <img align="center" alt="trybick's Most Used Languages" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=trybick&layout=compact" />
   <img align="center" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
+  <img align="center" alt="trybick's Most Used Languages" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=trybick&layout=compact" />
 </p>
 
 ### Activity
@@ -29,12 +34,6 @@ I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https:
 4. ❗️ Opened issue [#1690](https://github.com//chakra-ui/chakra-ui/issues/1690) in [chakra-ui/chakra-ui](https://github.com//chakra-ui/chakra-ui)
 5. ❗️ Opened issue [#20](https://github.com//trybick/tv-minder/issues/20) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
 <!--END_SECTION:activity-->
-                                                                                                           
-### Connect with me
-
-[<img align="left" alt="timr.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="celtic426 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Tim Rybicki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!-- Variables -->
 [website]: https://timr.dev
