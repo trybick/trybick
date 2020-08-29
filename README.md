@@ -4,8 +4,8 @@ I work as a JavaScript/React developer and also enjoy coding as a hobby. Check o
 
 I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https://youtube.com/celtic426).
 
-
-<p align='center'>
+<!-- Contact badges -->
+<p align='left'>
   <a href="mailto:rybickitim+github@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -16,12 +16,6 @@ I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https:
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;  
 </p>
-
-<!--
-[<img align="left" alt="timr.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="celtic426 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Tim Rybicki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
--->
 
 ### Currently working on
 - 📺&ensp;[TV Minder](https://tv-minder.com/) (TV show tracker)
