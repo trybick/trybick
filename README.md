@@ -5,13 +5,13 @@ I work as a JavaScript/React developer and also enjoy coding as a hobby. Check o
 I also write a [tech blog](https://timr.dev/blog) :book:&ensp;and make [piano videos](https://youtube.com/celtic426) :notes:
 
 ### Currently working on
-- 📺 [TV Minder](https://tv-minder.com/) (TV show tracker)
+- 📺&ensp;[TV Minder](https://tv-minder.com/) (TV show tracker)
 
 ### Other Projects
-- 🔎 [Terminal Zoom](https://marketplace.visualstudio.com/items?itemName=trybick.terminal-zoom) (VSCode Extension)
-- 🎧 [Tray Tuner](https://traytuner.com/) (Desktop music app)
-- 💡 [Issue Collab](https://issue-collab.dev/) (GitHub Issue search tool)
-- 🌎 [Slack Location Manager](https://www.npmjs.com/package/slack-location-manager) (Slack CLI tool)
+- 🔎&ensp;[Terminal Zoom](https://marketplace.visualstudio.com/items?itemName=trybick.terminal-zoom) (VSCode Extension)
+- 🎧&ensp;[Tray Tuner](https://traytuner.com/) (Desktop music app)
+- 💡&ensp;[Issue Collab](https://issue-collab.dev/) (GitHub Issue search tool)
+- 🌎&ensp;[Slack Location Manager](https://www.npmjs.com/package/slack-location-manager) (Slack CLI tool)
 
 ### Stats
 
