@@ -4,7 +4,7 @@ I work as a JavaScript/React developer and also enjoy coding as a hobby. Check o
 
 I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https://youtube.com/celtic426).
 
-<!-- Contact badges -->
+<!-- Contact badges
 <p align='left'>
   <a href="mailto:rybickitim+github@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
@@ -16,8 +16,9 @@ I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https:
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;  
 </p>
-
-### Currently working on
+ -->
+ 
+### Currently Working On
 - 📺&ensp;[TV Minder](https://tv-minder.com/) (TV show tracker)
 
 ### Other Projects
@@ -33,7 +34,7 @@ I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https:
   <img align="center" alt="trybick's Most Used Languages" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=trybick&layout=compact" />
 </p>
 
-### Activity
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#22](https://github.com//trybick/tv-minder/pull/22) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
 2. 🎉 Merged PR [#21](https://github.com//trybick/tv-minder/pull/21) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
