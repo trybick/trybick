@@ -1,4 +1,4 @@
-## Hi, I'm Tim 👋
+## Hi there 👋
 
 I work as a JavaScript/React developer and also enjoy coding as a hobby. Check out my projects and let me know if you'd like to collaborate :rocket:
 
