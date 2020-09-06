@@ -36,11 +36,11 @@ I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https:
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com//trybick/tv-minder/pull/23) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
-2. 🎉 Merged PR [#22](https://github.com//trybick/tv-minder/pull/22) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
-3. 🎉 Merged PR [#21](https://github.com//trybick/tv-minder/pull/21) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
-4. 🗣 Commented on [#1691](https://github.com//chakra-ui/chakra-ui/issues/1691) in [chakra-ui/chakra-ui](https://github.com//chakra-ui/chakra-ui)
-5. ❗️ Opened issue [#1691](https://github.com//chakra-ui/chakra-ui/issues/1691) in [chakra-ui/chakra-ui](https://github.com//chakra-ui/chakra-ui)
+1. 🎉 Merged PR [#24](https://github.com//trybick/tv-minder/pull/24) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
+2. 🎉 Merged PR [#23](https://github.com//trybick/tv-minder/pull/23) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
+3. 🎉 Merged PR [#22](https://github.com//trybick/tv-minder/pull/22) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
+4. 🎉 Merged PR [#21](https://github.com//trybick/tv-minder/pull/21) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
+5. 🗣 Commented on [#1691](https://github.com//chakra-ui/chakra-ui/issues/1691) in [chakra-ui/chakra-ui](https://github.com//chakra-ui/chakra-ui)
 <!--END_SECTION:activity-->
 
 <!-- Variables -->
