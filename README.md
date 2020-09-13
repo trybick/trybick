@@ -38,7 +38,7 @@
   <img align="center" alt="trybick's Most Used Languages" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=trybick&layout=compact" />
 </p>
 
-
+ <!--
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com//trybick/sick-picks-client/issues/12) in [trybick/sick-picks-client](https://github.com//trybick/sick-picks-client)
@@ -47,6 +47,7 @@
 4. 🎉 Merged PR [#22](https://github.com//trybick/tv-minder/pull/22) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
 5. 🎉 Merged PR [#21](https://github.com//trybick/tv-minder/pull/21) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
 <!--END_SECTION:activity-->
+-->
 
 <!-- Variables -->
 [website]: https://timr.dev
