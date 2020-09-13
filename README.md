@@ -18,14 +18,17 @@ I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https:
 </p>
  -->
  
+ <!--
 ### Currently Working On
 - 📺&ensp;[TV Minder](https://tv-minder.com/) (TV show tracker)
-
+-->
+ <!--
 ### Other Projects
 - 🔎&ensp;[Terminal Zoom](https://marketplace.visualstudio.com/items?itemName=trybick.terminal-zoom) (VSCode Extension)
 - 🎧&ensp;[Tray Tuner](https://traytuner.com/) (Desktop music app)
 - 💡&ensp;[Issue Collab](https://issue-collab.dev/) (GitHub Issue search tool)
 - 🌎&ensp;[Slack Location Manager](https://www.npmjs.com/package/slack-location-manager) (Slack CLI tool)
+-->
 
 ### Stats
 
@@ -33,6 +36,7 @@ I also write a [tech blog](https://timr.dev/blog) and make [piano videos](https:
   <img align="center" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
   <img align="center" alt="trybick's Most Used Languages" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=trybick&layout=compact" />
 </p>
+
 
 ### Recent Activity
 <!--START_SECTION:activity-->
