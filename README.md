@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 #### My name is Tim Rybicki and I am a Front End Developer
 
@@ -32,8 +32,6 @@
 - 💡&ensp;[Issue Collab](https://issue-collab.dev/) (GitHub Issue search tool)
 - 🌎&ensp;[Slack Location Manager](https://www.npmjs.com/package/slack-location-manager) (Slack CLI tool)
 -->
-
-### Stats
 
 <p float="left">
   <img align="center" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
