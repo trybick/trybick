@@ -33,21 +33,11 @@
 - 🌎&ensp;[Slack Location Manager](https://www.npmjs.com/package/slack-location-manager) (Slack CLI tool)
 -->
 
+### Stats
 <p float="left">
   <img align="center" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
   <img align="center" alt="trybick's Most Used Languages" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=trybick&layout=compact" />
 </p>
-
- <!--
-### Recent Activity
-<!--START_SECTION:NOTactivity-->
-1. 🗣 Commented on [#12](https://github.com//trybick/sick-picks-client/issues/12) in [trybick/sick-picks-client](https://github.com//trybick/sick-picks-client)
-2. 🎉 Merged PR [#24](https://github.com//trybick/tv-minder/pull/24) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
-3. 🎉 Merged PR [#23](https://github.com//trybick/tv-minder/pull/23) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
-4. 🎉 Merged PR [#22](https://github.com//trybick/tv-minder/pull/22) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
-5. 🎉 Merged PR [#21](https://github.com//trybick/tv-minder/pull/21) in [trybick/tv-minder](https://github.com//trybick/tv-minder)
-<!--END_SECTION:NOTactivity-->
--->
 
 <!-- Variables -->
 [website]: https://timr.dev
