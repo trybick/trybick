@@ -4,7 +4,7 @@
 
 - I love working with JavaScript, specifically TypeScript and React 
 - I'm currently working on [TV Minder](https://tv-minder.com/), a TV show tracker web app
-- I'm open to collarborating on projects :rocket:
+- I'm open to collaborating on projects :rocket:
 - I write a [tech blog](https://timr.dev/blog) and make [piano videos](https://youtube.com/celtic426)
 
 <!-- Contact badges
