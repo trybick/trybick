@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-#### My name is Tim Rybicki and I am a Front End Developer
-
-- I love working with JavaScript, specifically TypeScript and React 
+- Love TypeScript and React 
 - I'm currently working on [TV Minder](https://tv-minder.com/), a TV show tracker web app
-- I'm open to collaborating on projects :rocket:
 - I write a [tech blog](https://timr.dev/blog) and make [piano videos](https://youtube.com/celtic426)
+- I'm open to collaborating on projects
 
 <!-- Contact badges
 <p align='left'>
