@@ -1,6 +1,6 @@
 #### My name is Tim and I am a Front End developer
 
-- :heart: TypeScript and React 
+- :heart:&ensp;TypeScript and React 
 - I'm currently working on [TV Minder](https://tv-minder.com/), a TV show tracker web app
 - I write a [tech blog](https://timr.dev/blog) and make [piano videos](https://youtube.com/celtic426)
 - I'm open to collaborating on projects :rocket:
