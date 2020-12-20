@@ -30,7 +30,7 @@
 - 🌎&ensp;[Slack Location Manager](https://www.npmjs.com/package/slack-location-manager) (Slack CLI tool)
 -->
 
-&nbsp;
+
 <p float="left">
   <img align="center" alt="trybick's Github Stats" src="https://github-readme-stats-two-nu.vercel.app/api?username=trybick&show_icons=true&hide_border=false&hide=stars&count_private=true" />
   <img align="center" alt="trybick's Most Used Languages" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=trybick&layout=compact" />
