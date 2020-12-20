@@ -3,7 +3,6 @@
 - :heart:&ensp;TypeScript and React 
 - Currently working on [TV Minder](https://tv-minder.com/), a TV show tracker web app
 - Check out my [tech blog](https://timr.dev/blog) and 🎹 [YouTube channel](https://youtube.com/celtic426)
-- I'm open to collaborating on projects :rocket:
 
 <!-- Contact badges
 <p align='left'>
