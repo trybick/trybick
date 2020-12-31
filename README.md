@@ -1,4 +1,4 @@
-#### My name is Tim and I am a Front End developer
+#### Hi, I work as a Front End Developer and I enjoy making side projects
 
 - :heart:&ensp;TypeScript and React 
 - Currently working on [TV Minder](https://tv-minder.com/), a TV show tracker web app
